@@ -1,6 +1,8 @@
-# WebDevelopmentStudy
+# Algorithm study
 
-## Web Devlopment Study Start
+## Study Information
+
+
  - 시작 일시 : 2021. 4. 1 ~
  
  
