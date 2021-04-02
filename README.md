@@ -14,7 +14,7 @@
 
 ------------------------- 
 
-  |       | [김진오](https://github.com/Kimjino1996)          | [이준하]()        | [이정진]()        |이장원|
+  |       | [김진오](https://github.com/Kimjino1996)          | [이준하](https://github.com/JunhaLee)        | [이정진](https://github.com/JIN-096)        |이장원|
   | :---: | ---------- | -------- | ------- | ------- |
   | 1section |  |  |    |    |
   | 2section |  |  ||    |
