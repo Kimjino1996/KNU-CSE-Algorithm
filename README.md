@@ -16,7 +16,7 @@
 
   |       | [김진오](https://github.com/Kimjino1996)          | [이준하](https://github.com/JunhaLee)        | [이정진](https://github.com/JIN-096)        |이장원|
   | :---: | ---------- | -------- | ------- | ------- |
-  | 1section |[마법사상어와 파이어볼](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/20056.%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC)  |  |    |    |
+  | 1section |[마법사상어와 파이어볼](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/20056.%EB%A7%88%EB%B2%95%EC%82%AC%EC%83%81%EC%96%B4%EC%99%80%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B3%BC)  |  | [경사로](https://www.acmicpc.net/problem/14890)   |    |
   | 2section |  |  ||    |
   | 3section |  |  |  |    |
   | 4section |  |  |  |    |
