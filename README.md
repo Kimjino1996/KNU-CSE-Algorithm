@@ -22,7 +22,7 @@
 | 4section | [불량사용자](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/4%EC%A3%BC%EC%B0%A8/2019_Kakao_winter_internship.%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90) |[합분해](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/4%EC%A3%BC%EC%B0%A8/2225.%ED%95%A9%EB%B6%84%ED%95%B4)  |  |    |
 | 5section | [sibuya cross](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/2021SAP%20Intern%20Test%20sibuya%20crossing) |[점프왕 쩰리](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/16174.%20%EC%A0%90%ED%94%84%EC%99%95%20%EC%A9%B0%EB%A6%AC%20(Large))| [미친아두이노](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/8972.%EB%AF%B8%EC%B9%9C%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) |[lcs](https://www.acmicpc.net/problem/9251)    |
 | 6section | [기지국](https://www.acmicpc.net/problem/2300) |[좁은 미술전시관](https://www.acmicpc.net/problem/10476)|   |[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413 )|
-| 7section | Linked List 구현 ||   ||
+| 7section | Linked List 구현[https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/7%EC%A3%BC%EC%B0%A8/LinkedList%20%EA%B5%AC%ED%98%84] ||   ||
 
 
 ------------------------
