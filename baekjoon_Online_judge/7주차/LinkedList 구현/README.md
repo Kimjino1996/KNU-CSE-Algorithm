@@ -1,0 +1,1 @@
+- [LinkedList](https://swexpertacademy.com/main/code/referenceCode/referenceCodeDetail.do?referenceId=LINKED_LIST&category=DataStructure&&)
