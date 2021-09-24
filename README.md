@@ -23,8 +23,8 @@
 | 5section | [sibuya cross](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/2021SAP%20Intern%20Test%20sibuya%20crossing) |[점프왕 쩰리](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/16174.%20%EC%A0%90%ED%94%84%EC%99%95%20%EC%A9%B0%EB%A6%AC%20(Large))| [미친아두이노](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/5%EC%A3%BC%EC%B0%A8/8972.%EB%AF%B8%EC%B9%9C%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8) |[lcs](https://www.acmicpc.net/problem/9251)    |  |
 | 6section | [기지국](https://www.acmicpc.net/problem/2300) |[좁은 미술전시관](https://www.acmicpc.net/problem/10476)|   |[합승 택시 요금](https://programmers.co.kr/learn/courses/30/lessons/72413 )|
 | 7section | [Linked List 구현](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/7%EC%A3%BC%EC%B0%A8/LinkedList%20%EA%B5%AC%ED%98%84) ||   ||  |
-| 8section |  |  | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  |
-| 9section |  |  | [인구이동](https://www.acmicpc.net/problem/16234) |  |  |
+| 8section |  | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)  | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  |  |
+| 9section |  | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [인구이동](https://www.acmicpc.net/problem/16234) |  |  |
 
 
 ------------------------
