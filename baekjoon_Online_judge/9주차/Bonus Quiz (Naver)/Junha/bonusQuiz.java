@@ -9,8 +9,8 @@ public class Main {
 	static int[][] blocks = { { 0, 92 }, { 1, 20 }, { 2, 11 }, { 1, -81 }, { 3, 98 } };
 
 	public static void main(String[] args) {
-		int[][] arr = new int[blocks.length][blocks.length];
-		int num = 0;
+		int[][] arr = new int[blocks.length][blocks.length]; // 채워넣을 배열
+		int num = 0; // 빈칸의 갯수
 
 		for (int i = 1; i <= blocks.length; i++) {
 			num += i;
@@ -19,11 +19,11 @@ public class Main {
 
 		for (int i = 0; i < blocks.length; i++) {
 			Arrays.fill(arr[i], -1000000);
-		}
+		} // 만들어질 수 없는 값으로 배열을 초기화 해주고
 
 		for (int floor = 0; floor < blocks.length; floor++) {
 			arr[floor][blocks[floor][0]] = blocks[floor][1];
-		}
+		} // blocks 배열로 부터 정보를 입력
 
 		while (num > 0) {
 			for (int floor = 0; floor < blocks.length - 1; floor++) {
@@ -50,13 +50,13 @@ public class Main {
 					}
 				}
 			}
-		}
+		} // 채워넣기 (하나 채워 넣을 때 마다 num 값을 1씩 감소.
 
 		for (int i = 0; i < blocks.length; i++) {
 			for (int j = 0; j < i + 1; j++) {
 				System.out.print(arr[i][j] + " ");
 			}
-		}
+		} //
 
 	}
 
