@@ -25,7 +25,7 @@
 | 7section | [Linked List 구현](https://github.com/Kimjino1996/KNU-CSE-Algorithm/tree/main/baekjoon_Online_judge/7%EC%A3%BC%EC%B0%A8/LinkedList%20%EA%B5%AC%ED%98%84) ||   ||  |
 | 8section | [보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)  | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)  |
 | 9section | [등산로조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [인구이동](https://www.acmicpc.net/problem/16234) |  |  |
-| 10section | |[Puyo Puyo](https://www.acmicpc.net/problem/11559) | |  |  |
+| 10section |[탈주범검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) |[Puyo Puyo](https://www.acmicpc.net/problem/11559) | |  |  |
 
 ------------------------
 
