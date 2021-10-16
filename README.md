@@ -26,7 +26,7 @@
 | 8section | [보석쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258) | [경주로 건설](https://programmers.co.kr/learn/courses/30/lessons/67259)  | [문자열압축](https://programmers.co.kr/learn/courses/30/lessons/60057) |  | [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)  |
 | 9section | [등산로조성](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) | [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) | [인구이동](https://www.acmicpc.net/problem/16234) |  |  |
 | 10section |[탈주범검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) |[Puyo Puyo](https://www.acmicpc.net/problem/11559) |[소가 길을 건너간 이유 6](https://www.acmicpc.net/problem/14466) |  |  |
-| 11section | |[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | |  |  |
+| 11section |[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) |[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) |[정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |  |  |
 
 ------------------------
 
