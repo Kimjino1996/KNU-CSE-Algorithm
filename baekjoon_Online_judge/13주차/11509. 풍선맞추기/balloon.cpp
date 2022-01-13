@@ -23,7 +23,8 @@ int main() {
 		for (int j = 0; j < shoot_count; j++) {
 			if (shoot_arr[j] == height_arr[i]) {
 				shoot_arr[j]--;
-				flag = 1;//ÇÑ¹ß ¸ÂÃè´Ù.
+				flag = 1;//í•œë°œ ë§žì·„ë‹¤.
+				break;
 			}
 		}
 		if (flag == 1) {
@@ -31,7 +32,7 @@ int main() {
 		}
 		else {
 			shoot_count++;
-			shoot_arr[shoot_count - 1] = height_arr[i]-1;//½ðÁï½Ã ÇÑ¹ß»®½Ã´Ù
+			shoot_arr[shoot_count - 1] = height_arr[i]-1;//ìœì¦‰ì‹œ í•œë°œëºì‹œë‹¤
 			
 		}
 	}
